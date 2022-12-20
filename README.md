@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityamRaj
-- 👀 I’m interested in Python, Data Science, and Cloud Computing.
+- 👀 I’m interested in Machine Learning, Data Science, and Cloud Computing.
 - 🌱 I’m currently learning Statistics and Data Science with Python.
 - 💞️ I’m looking to collaborate on data analysis projects, blockchain projects and crypto-bot projects.
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/adityam-raj-230395208/
